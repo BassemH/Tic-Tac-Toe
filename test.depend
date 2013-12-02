@@ -1,0 +1,723 @@
+# depslib dependency file v1.0
+1334943778 source:c:\documents and settings\amal.zg\bureau\projet\test.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"option.h"
+	"aide.h"
+	"autre.h"
+	"jeu1.h"
+	"choix.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1330078024 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1330727204 c:\documents and settings\amal.zg\bureau\projet\header.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\begin_code.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\close_code.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_keysym.h
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792434 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792940 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1332768348 c:\documents and settings\amal.zg\bureau\projet\option.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334601903 source:c:\documents and settings\amal.zg\bureau\projet\option.c
+	"option.h"
+	"autre.h"
+
+1334696824 c:\documents and settings\amal.zg\bureau\projet\aide.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334601784 source:c:\documents and settings\amal.zg\bureau\projet\aide.c
+	"aide.h"
+
+1332768082 source:c:\documents and settings\amal.zg\bureau\projet\autre.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1332768270 c:\documents and settings\amal.zg\bureau\projet\autre.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_mixer.h>
+
+1332768482 source:c:\documents and settings\amal.zg\bureau\projet\jeu.c
+	"jeu.h"
+
+1332887338 c:\documents and settings\amal.zg\bureau\projet\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334875883 c:\documents and settings\amal.zg\bureau\projet\choix.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334943294 source:c:\documents and settings\amal.zg\bureau\projet\choix.c
+	"choix.h"
+
+1332768082 source:f:\projet\autre.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1333755166 source:f:\projet\choix.c
+	"choix.h"
+
+1333785108 f:\projet\choix.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332768482 source:f:\projet\jeu.c
+	"jeu.h"
+
+1332887338 f:\projet\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1333745354 source:f:\projet\option.c
+	"option.h"
+	"autre.h"
+
+1332768348 f:\projet\option.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332768270 f:\projet\autre.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_mixer.h>
+
+1333784664 source:f:\projet\test.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"option.h"
+	"aide.h"
+	"autre.h"
+	"jeu.h"
+	"choix.h"
+
+1333755336 f:\projet\aide.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1333756230 source:f:\projet\aide.c
+	"aide.h"
+
+1334602212 c:\documents and settings\amal.zg\bureau\projet\jeu1.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334624417 source:c:\documents and settings\amal.zg\bureau\projet\jeu1.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334944045 source:c:\documents and settings\amal.zg\bureau\projet\fin.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334877004 source:c:\documents and settings\amal.zg\bureau\projet\jeu2.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334877004 source:c:\documents and settings\amal.zg\bureau\projet\jeu3.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334605384 source:c:\users\dell\desktop\projet\aide.c
+	"aide.h"
+
+1334700424 c:\users\dell\desktop\projet\aide.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332771682 source:c:\users\dell\desktop\projet\autre.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1334947901 source:c:\users\dell\desktop\projet\choix.c
+	"choix.h"
+
+1334879483 c:\users\dell\desktop\projet\choix.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334947645 source:c:\users\dell\desktop\projet\fin.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334605812 c:\users\dell\desktop\projet\jeu1.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334628017 source:c:\users\dell\desktop\projet\jeu1.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334880604 source:c:\users\dell\desktop\projet\jeu2.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334880604 source:c:\users\dell\desktop\projet\jeu3.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334605503 source:c:\users\dell\desktop\projet\option.c
+	"option.h"
+	"autre.h"
+
+1332771948 c:\users\dell\desktop\projet\option.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332771870 c:\users\dell\desktop\projet\autre.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_mixer.h>
+
+1334947378 source:c:\users\dell\desktop\projet\test.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"option.h"
+	"aide.h"
+	"autre.h"
+	"jeu1.h"
+	"choix.h"
+
+1334605386 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\aide.c
+	"aide.h"
+
+1334700426 c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\aide.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332771682 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\autre.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1334947902 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\choix.c
+	"choix.h"
+
+1334879484 c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\choix.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334947646 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\fin.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334605814 c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\jeu1.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1334628018 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\jeu1.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334880606 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\jeu2.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334880606 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\jeu3.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"jeu1.h"
+
+1334605504 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\option.c
+	"option.h"
+	"autre.h"
+
+1332771948 c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\option.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1332771870 c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\autre.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_mixer.h>
+
+1334947380 source:c:\users\bassem\desktop\cours_downloaded\1ere_annee_2eme_semestre\projet de programmation\projet\test.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"option.h"
+	"aide.h"
+	"autre.h"
+	"jeu1.h"
+	"choix.h"
+
